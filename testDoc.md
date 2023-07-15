@@ -1,9 +1,9 @@
 ---
 title: MeliClon-Social v1.0
 language_tabs:
-  - "'python": Python'
+  - "'javascript": JavaScript'
 language_clients:
-  - "'python": ""
+  - "'javascript": ""
 toc_footers: []
 includes: []
 search: true
@@ -166,9 +166,9 @@ This operation does not require authentication
 
 <h1 id="meliclon-social-followers">Followers</h1>
 
-## FollowersController_create
+## CreateFollower
 
-<a id="opIdFollowersController_create"></a>
+<a id="opIdCreateFollower"></a>
 
 > Code samples
 
@@ -183,7 +183,7 @@ This operation does not require authentication
 }
 ```
 
-<h3 id="followerscontroller_create-parameters">Parameters</h3>
+<h3 id="createfollower-parameters">Parameters</h3>
 
 |Name|In|Type|Required|Description|
 |---|---|---|---|---|
@@ -200,7 +200,7 @@ This operation does not require authentication
 }
 ```
 
-<h3 id="followerscontroller_create-responses">Responses</h3>
+<h3 id="createfollower-responses">Responses</h3>
 
 |Status|Meaning|Description|Schema|
 |---|---|---|---|
